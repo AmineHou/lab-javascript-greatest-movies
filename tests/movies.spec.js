@@ -202,7 +202,7 @@ describe('Function "dramaMoviesScore"', () => {
     ).toBe(0);
   });
 });
-
+/*
 // Iteration 5
 describe('Function "orderByYear"', () => {
   it('should be declared', () => {
@@ -466,3 +466,4 @@ describe('Function "bestYearAvg"', () => {
     );
   });
 });
+*/
